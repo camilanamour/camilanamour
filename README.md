@@ -1,6 +1,8 @@
-### Olá 👋 :smiling_face_with_three_hearts:
+### Hey guys :smiling_face_with_three_hearts:
 
-Atualizando...
+Motivo da falta de novos conteúdo: Profissional da educação
+
+Atualizando as informações...
 <!--
 **camilanamour/camilanamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
