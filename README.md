@@ -1,8 +1,8 @@
 ### Hey guys :smiling_face_with_three_hearts:
 
-Motivo da falta de novos conteúdo: Profissional da educação
+Motivo da falta de novos conteúdo: Mudanças na vida
 
-Atualizando as informações...
+Estarei atualizando as informações sobre mim e os repositórios, mas se divirtam, há muito conteúdo.
 <!--
 **camilanamour/camilanamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
