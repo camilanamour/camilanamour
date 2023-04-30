@@ -9,10 +9,18 @@ Conecte comigo:
 [![Ícone do LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-namour/)
 [![Ícone do Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilanamour/)
 
-<!--
 
 Linguagens e ferramentas 
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazonaws&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-007396?style=flat-square&logo=cobol&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-008000?style=flat-square&logo=gnu&logoColor=white)
+
+
+<!--
 **camilanamour/camilanamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
