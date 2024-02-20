@@ -1,9 +1,6 @@
 ### Hey guys :smiling_face_with_three_hearts:
 
-Formada em Análise e Desenvolvimento de Sistemas
-
-Apaixonada por tecnologia 
-
+Formada em Análise e Desenvolvimento de Sistemas. 
 Em busca de aperfeiçoamento para ingressar na carreira de TI
 
 Conecte comigo:
