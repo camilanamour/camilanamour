@@ -1,8 +1,8 @@
 ### Hey guys :smiling_face_with_three_hearts:
 
-Motivo da falta de novos conteúdo: Mudanças na vida
-
-Estarei atualizando as informações sobre mim e os repositórios, mas se divirtam, há muito conteúdo.
+Formada em Análise e Desenvolvimento de Sistemas
+Apaixonada por tecnologia 
+Em busca de aperfeiçoamento para ingressar na ccarreira de TI
 
 Conecte comigo:
 
